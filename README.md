@@ -14,7 +14,7 @@
   <section style="margin-top:22px;">
     <h2 style="font-size:18px;margin:0 0 10px;">About me</h2>
     <div style="background:rgba(255,255,255,0.02);padding:14px;border-radius:10px;">
-      <p>Hi — I'm Bergman, passionate about cybersecurity and IT. I completed a course at <strong>STEP IT</strong> where I learned web basics (HTML & CSS), cybersecurity fundamentals, and worked with robotics & Arduino. I enjoy researching religious topics and playing video games in my free time.</p>
+      <p>Hi — I'm Bergman, passionate about cybersecurity and IT. I learned web basics (HTML & CSS), cybersecurity fundamentals, and worked with robotics & Arduino. </p>
     </div>
   </section>
 
