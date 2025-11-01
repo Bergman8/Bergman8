@@ -14,7 +14,7 @@
   <section style="margin-top:22px;">
     <h2 style="font-size:18px;margin:0 0 10px;">About me</h2>
     <div style="background:rgba(255,255,255,0.02);padding:14px;border-radius:10px;">
-      <p>Hi — I'm Bergman, passionate about cybersecurity and IT. I learned web basics (HTML & CSS), cybersecurity fundamentals, and worked with robotics & Arduino. </p>
+      <p>Hi — I'm Bergman, passionate about cybersecurity and IT. I learned web basics (HTML,CSS,Javascript, PHP, Python), cybersecurity fundamentals, and worked with robotics & Arduino. </p>
     </div>
   </section>
 
@@ -24,9 +24,14 @@
       <div style="background:rgba(255,255,255,0.02);padding:14px;border-radius:10px;">
         <h3 style="margin-top:0;margin-bottom:8px;">Short-term</h3>
         <ul style="margin:8px 0 0 18px;">
-          <li>Penetration Testing</li>
           <li>Building Websites</li>
-          <li>Learn practical cybersecurity skills</li>
+          <li>Learning practical cybersecurity skills</li>
+        </ul>
+      </div>
+      <div style="background:rgba(255,255,255,0.02);padding:14px;border-radius:10px;">
+        <h3 style="margin-top:0;margin-bottom:8px;">Long-term</h3>
+        <ul style="margin:8px 0 0 18px;">
+          <li>Enter Middle East Technical University (METU), Turkey</li>
         </ul>
       </div>
     </div>
@@ -46,9 +51,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git Logo" title="Git" style="height:22px;margin-right:6px;vertical-align:middle">
       </div>
       <ul style="margin:8px 0 0 18px;">
-        <li>Languages & markup: HTML, CSS, Python, JavaScript, C++, Nodejs, Git</li>
-        <li>Hardware: basics of robotics, Arduino</li>
-        <li>Interests: cybersecurity fundamentals, network basics</li>
+        <li>Languages & markup: HTML, CSS, Python, JavaScript, C++, Node.js, Git etc.</li>
+        <li>Hardware: Robotics, AI, Computer Hardware</li>
+        <li>Interests: Cybersecurity, Linux, Programming, Researching</li>
         <li>Soft skills: curious researcher, disciplined learner</li>
       </ul>
     </div>
