@@ -24,15 +24,9 @@
       <div style="background:rgba(255,255,255,0.02);padding:14px;border-radius:10px;">
         <h3 style="margin-top:0;margin-bottom:8px;">Short-term</h3>
         <ul style="margin:8px 0 0 18px;">
-          <li>Practice English conversation regularly</li>
-          <li>Build small web & Arduino projects</li>
+          <li>Penetration Testing</li>
+          <li>Building Websites</li>
           <li>Learn practical cybersecurity skills</li>
-        </ul>
-      </div>
-      <div style="background:rgba(255,255,255,0.02);padding:14px;border-radius:10px;">
-        <h3 style="margin-top:0;margin-bottom:8px;">Long-term</h3>
-        <ul style="margin:8px 0 0 18px;">
-          <li>Enter Middle East Technical University (METU), Turkey</li>
         </ul>
       </div>
     </div>
@@ -42,14 +36,17 @@
     <h2 style="font-size:18px;margin:0 0 10px;">Skills & tools</h2>
     <div style="background:rgba(255,255,255,0.02);padding:14px;border-radius:10px;">
       <div style="margin-bottom:10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" style="height:20px;margin-right:6px;vertical-align:middle;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" style="height:20px;margin-right:6px;vertical-align:middle;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" style="height:20px;margin-right:6px;vertical-align:middle;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" style="height:20px;margin-right:6px;vertical-align:middle;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" title="Arduino" style="height:20px;margin-right:6px;vertical-align:middle;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5 Logo" title="HTML5" style="height:22px;margin-right:6px;vertical-align:middle">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3 Logo" title="CSS3" style="height:22px;margin-right:6px;vertical-align:middle">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" title="Python" style="height:22px;margin-right:6px;vertical-align:middle">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" title="JavaScript" style="height:22px;margin-right:6px;vertical-align:middle">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino Logo" title="Arduino" style="height:22px;margin-right:6px;vertical-align:middle">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++ Logo" title="C++" style="height:22px;margin-right:6px;vertical-align:middle">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js Logo" title="Node.js" style="height:22px;margin-right:6px;vertical-align:middle">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git Logo" title="Git" style="height:22px;margin-right:6px;vertical-align:middle">
       </div>
       <ul style="margin:8px 0 0 18px;">
-        <li>Languages & markup: HTML, CSS, Python, JavaScript</li>
+        <li>Languages & markup: HTML, CSS, Python, JavaScript, C++, Nodejs, Git</li>
         <li>Hardware: basics of robotics, Arduino</li>
         <li>Interests: cybersecurity fundamentals, network basics</li>
         <li>Soft skills: curious researcher, disciplined learner</li>
