@@ -1,7 +1,7 @@
 <div class="container" style="max-width:900px;margin:48px auto;padding:28px;background:#111827;border-radius:12px;color:#e6eef6;font-family:Inter,system-ui;">
   <header style="display:flex;gap:18px;align-items:center;">
     <div>
-      <h1 style="margin:0;font-size:28px;">Karim Karimli — aspiring Cybersecurity Specialist</h1>
+      <h1 style="margin:0;font-size:28px;">Bergman — aspiring Cybersecurity Specialist</h1>
       <p style="margin:6px 0 0;color:#9ca3af;">Learning cybersecurity, programming, robotics & Arduino</p>
       <div style="margin-top:12px;display:flex;gap:8px;flex-wrap:wrap;">
         <span style="padding:6px 10px;border-radius:999px;background:rgba(255,255,255,0.04);font-size:13px;">STEP IT — Completed</span> <br>
@@ -14,7 +14,7 @@
   <section style="margin-top:22px;">
     <h2 style="font-size:18px;margin:0 0 10px;">About me</h2>
     <div style="background:rgba(255,255,255,0.02);padding:14px;border-radius:10px;">
-      <p>Hi — I'm Karim, passionate about cybersecurity and IT. I completed a course at <strong>STEP IT</strong> where I learned web basics (HTML & CSS), cybersecurity fundamentals, and worked with robotics & Arduino. I enjoy researching religious topics and playing video games in my free time.</p>
+      <p>Hi — I'm Bergman, passionate about cybersecurity and IT. I completed a course at <strong>STEP IT</strong> where I learned web basics (HTML & CSS), cybersecurity fundamentals, and worked with robotics & Arduino. I enjoy researching religious topics and playing video games in my free time.</p>
     </div>
   </section>
 
@@ -33,7 +33,6 @@
         <h3 style="margin-top:0;margin-bottom:8px;">Long-term</h3>
         <ul style="margin:8px 0 0 18px;">
           <li>Enter Middle East Technical University (METU), Turkey</li>
-          <li>Work as a cybersecurity specialist or IT manager</li>
         </ul>
       </div>
     </div>
