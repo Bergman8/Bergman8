@@ -6,7 +6,6 @@
       <div style="margin-top:12px;display:flex;gap:8px;flex-wrap:wrap;">
         <span style="padding:6px 10px;border-radius:999px;background:rgba(255,255,255,0.04);font-size:13px;">STEP IT — Completed</span> <br>
         <span style="padding:6px 10px;border-radius:999px;background:rgba(255,255,255,0.04);font-size:13px;">Interested: Cybersecurity, IT Management</span> <br>
-        <span style="padding:6px 10px;border-radius:999px;background:rgba(255,255,255,0.04);font-size:13px;">Practice: English conversation</span>
       </div>
     </div>
   </header>
