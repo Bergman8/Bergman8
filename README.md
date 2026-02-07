@@ -25,6 +25,7 @@
         <ul style="margin:8px 0 0 18px;">
           <li>Building Websites</li>
           <li>Learning practical cybersecurity skills</li>
+          <li>Building Extensions for Websites</li>
         </ul>
       </div>
       <div style="background:rgba(255,255,255,0.02);padding:14px;border-radius:10px;">
