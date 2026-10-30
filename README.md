@@ -31,7 +31,7 @@
       <div style="background:rgba(255,255,255,0.02);padding:14px;border-radius:10px;">
         <h3 style="margin-top:0;margin-bottom:8px;">Long-term</h3>
         <ul style="margin:8px 0 0 18px;">
-          <li>Enter Middle East Technical University (METU), Turkey</li>
+          <li>Middle East Technical University (METU), Turkey</li>
         </ul>
       </div>
     </div>
