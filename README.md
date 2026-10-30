@@ -13,7 +13,7 @@
   <section style="margin-top:22px;">
     <h2 style="font-size:18px;margin:0 0 10px;">About me</h2>
     <div style="background:rgba(255,255,255,0.02);padding:14px;border-radius:10px;">
-      <p>Hi — I'm Bergman, passionate about cybersecurity and IT. I learned web basics (HTML,CSS,Javascript, PHP, Python), cybersecurity fundamentals, and worked with robotics & Arduino. </p>
+      <p>Hi — I'm Karim, passionate about cybersecurity and IT. I'm a Computer Engineering student at the Middle East Technical University. I learned web basics (HTML,CSS,Javascript, PHP, Python), cybersecurity fundamentals, and worked with robotics & Arduino, and I want to improve my skills especially on CyberSecurity. </p>
     </div>
   </section>
 
